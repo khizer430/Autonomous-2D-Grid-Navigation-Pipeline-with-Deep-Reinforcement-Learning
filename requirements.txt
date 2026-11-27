@@ -1,0 +1,12 @@
+gymnasium>=0.29.1
+stable-baselines3>=2.3.0
+torch>=2.2.0
+pygame>=2.5.2
+fastapi>=0.111.0
+uvicorn>=0.30.0
+streamlit>=1.36.0
+plotly>=5.22.0
+pandas>=2.2.0
+numpy>=1.26.0
+imageio>=2.34.0
+pillow>=10.2.0

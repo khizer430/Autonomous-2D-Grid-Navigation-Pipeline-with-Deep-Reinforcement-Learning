@@ -1,0 +1,9 @@
+﻿.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+models_weights/*.zip
+outputs/*.gif
+outputs/*.mp4
+.DS_Store
